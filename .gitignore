@@ -1,0 +1,8 @@
+backend/*.cfg
+backend/Lib
+backend/Scripts
+backend/Include
+__pycache__
+.env
+frontend/node_modules
+frontend/dist
